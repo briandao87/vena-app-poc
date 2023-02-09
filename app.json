@@ -24,10 +24,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.bugatino.venaapppoc"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8707752d-f9a1-4daa-8fe7-35cef5dd5a5b"
+      }
+    },
+    "owner": "bugatino"
   }
 }
